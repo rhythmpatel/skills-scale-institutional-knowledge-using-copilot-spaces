@@ -75,7 +75,78 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## UX Designer
+
+### Role Summary
+Focuses on the end-user experience, ensuring UI/UX best practices are integrated into product requirements and deliverables.
+
+### Responsibilities
+- Conduct user research and usability testing
+- Create wireframes, prototypes, and visual designs
+- Collaborate closely with Product Managers to translate product vision into user flows
+- Work with Developers to clarify requirements and implementation details
+- Validate final designs prior to release
+
+### Goals
+- Ensure accessible and positive user experience
+- Minimize usability issues before production
+- Support product-market fit with compelling design
+
+### Typical Communication
+- Design reviews with Product Managers and Developers
+- Sharing prototypes and user feedback
+- Participating in sprint planning for upcoming UI/UX changes
+
+---
+
+## Release Manager
+
+### Role Summary
+Plans and coordinates production releases to ensure smooth deployments and reduce risk.
+
+### Responsibilities
+- Schedule and communicate release timelines
+- Coordinate cross-team release activities and checklists
+- Ensure pre-release requirements are met
+- Manage release notes and documentation
+- Facilitate post-release validation and incident response if needed
+
+### Goals
+- Reduce release friction and unplanned rollbacks
+- Guarantee all requirements and approvals for release are met
+- Ensure all teams are informed of release events
+
+### Typical Communication
+- Release plan updates sent to Developers, QA, and Project Managers
+- Pre-release meetings for go/no-go decisions
+- Post-release summaries and incident coordination
+
+---
+
+## Technical Writer
+
+### Role Summary
+Creates and manages user-facing and internal documentation to ensure processes and product usage are clearly described.
+
+### Responsibilities
+- Document requirements, user guides, and technical processes
+- Maintain knowledge bases and internal wikis
+- Standardize language, terminology, and structure across documents
+- Support onboarding and cross-team knowledge transfer
+
+### Goals
+- Reduce ambiguity by providing clear, accessible documentation
+- Enable faster onboarding and fewer knowledge silos
+- Ensure all teams can find and understand process/procedure info
+
+### Typical Communication
+- Gathering input from Product Managers, Developers, Project Managers
+- Reviewing major documentation changes with stakeholders
+- Announcing new or updated docs in team channels
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
+- New personas supplement existing roles to encourage comprehensive responsibility coverage and support cross-functional collaboration.
